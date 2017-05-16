@@ -1,0 +1,11 @@
+jneuralnetwork\neuralnet\NeuralAnnotationException.class
+jneuralnetwork\neuralnet\NeuralAnnotationReader.class
+jneuralnetwork\neuralnet\NeuralNetwork.class
+jneuralnetwork\data\DataReader.class
+jneuralnetwork\neuralnet\annotations\Output.class
+jneuralnetwork\rconnect\RClient.class
+jneuralnetwork\NeuralAnalyzer.class
+jneuralnetwork\neuralnet\RNeuralNet.class
+jneuralnetwork\neuralnet\Forecaster.class
+jneuralnetwork\data\RObject.class
+jneuralnetwork\neuralnet\annotations\Input.class
