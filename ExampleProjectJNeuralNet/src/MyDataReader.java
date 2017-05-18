@@ -19,7 +19,7 @@ public class MyDataReader implements DataReader{
 	public MyDataReader() 
 	{}
 		
-	//returns an object by id, to keep it simple let's just return the object at that an index.
+	//returns an object by id, to keep it simple let's just return the object at that index.
 	@Override
 	public Object findById(String index) throws Exception {
 		return list.get(Integer.parseInt(index));
