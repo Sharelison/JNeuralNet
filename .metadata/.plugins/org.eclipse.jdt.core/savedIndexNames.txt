@@ -1,9 +1,0 @@
-INDEX VERSION 1.127+C:\Users\share\workspace\JNeuralNet\.metadata\.plugins\org.eclipse.jdt.core
-642811153.index
-1283555553.index
-216667582.index
-2343866596.index
-2010565984.index
-2463710514.index
-3526840606.index
-1254884784.index
